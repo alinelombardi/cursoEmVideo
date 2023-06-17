@@ -1,6 +1,4 @@
-# Curso Algoritmo - Curso em video
-
-Finalizado ✅
+# Curso Algoritmo - Concluído ✅
 
 Curso de Algoritmo desenvolvido por Gustavo Guanabara. Itens abordados:
 
