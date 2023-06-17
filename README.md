@@ -1,9 +1,6 @@
-# Cursos Realizados na plataforma Curso em vídeo - Gustavo Guanabara
+# Cursos Realizados na plataforma Curso em vídeo do Gustavo Guanabara - Em andamento ⏳
 
-### Em andamento ⏳
 
-</br>
-
-> Cursos realizados:
+### Cursos realizados:
 
 - [Algoritmos](/algoritmos/) - Concluído ✅
